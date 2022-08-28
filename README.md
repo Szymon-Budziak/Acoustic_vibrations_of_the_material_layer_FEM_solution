@@ -8,3 +8,6 @@ Solution of the acoustic vibrations of the material layer in Matlab using FEM. T
 result = -1.3813e+07
 
 ![Solution](https://user-images.githubusercontent.com/75530523/157201805-9f5677e3-2547-496c-a24f-6cac6f152ec7.png)
+
+## Octave
+This solution has not been tested with Octave, implementation is in pure Matlab. If you test this solution on Octave and it works, let me know by opening a new problem in the issues tab.
